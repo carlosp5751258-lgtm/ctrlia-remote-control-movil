@@ -2,6 +2,8 @@
 
 🇬🇧 [Read in English](README.en.md)
 
+English version: [README.en.md](README.en.md) (archivos en `en/`).
+
 Guía para dirigir desde el móvil una sesión de Claude Code que corre en tu PC, con un script que comprueba los requisitos
 sin imprimir secretos y el ajuste para apagar Remote Control del todo.
 
@@ -10,7 +12,7 @@ Página completa: [ctrlia.dev (ES)](https://ctrlia.dev/recetas/remote-control-mo
 
 ## Qué incluye
 
-- `guia.md` / `guide.en.md`: las cuatro formas oficiales de usar Claude Code desde el teléfono, requisitos, paso a paso,
+- `guia.md` / `en/guide.md`: las cuatro formas oficiales de usar Claude Code desde el teléfono, requisitos, paso a paso,
   qué funciona en la app, privacidad y seguridad, y los errores con su texto literal.
 - `comprobar-remote-control.sh`: comprueba que hay sesión de claude.ai (no clave de API), que el plan no es el gratis y que
   no hay variables que lo bloqueen (`ANTHROPIC_API_KEY`, `ANTHROPIC_AUTH_TOKEN`, `CLAUDE_CODE_OAUTH_TOKEN`,

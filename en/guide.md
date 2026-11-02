@@ -31,7 +31,7 @@ env | grep -E '^(ANTHROPIC_API_KEY|ANTHROPIC_BASE_URL|CLAUDE_CODE_DISABLE_NONESS
 # if any name shows up, that variable blocks Remote Control
 ```
 
-Inside a session, `/status` shows the account and plan. The repository includes `comprobar-remote-control.sh`, which runs these checks in one go.
+Inside a session, `/status` shows the account and plan. The repository includes `en/check-remote-control.sh`, which runs these checks in one go.
 
 ## Step by step: from the terminal to your phone in 5 minutes
 
